@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rikesh Mahat</h1>
 
-<h3 align="center">Machine Learning Enthusiast 🍀</h3>
+<h3 align="center">Frontend 🍀</h3>
 </hr>
 
 
-- 🌱 I’m currently learning **Data Science (Pandas, Numpy, Plotly, OpenCV)**
+- 🌱 I’m currently learning **Frontend Development (React JS, Tailwind CSS)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rikesh-mahat](https://github.com/rikesh-mahat?tab=repositories)
 
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **Frontend Development**
 
 - ⚡ Fun fact **I can learn things quickly :)**
 
