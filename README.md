@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Science (Pandas, Numpy, Plotly, OpenCV)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rikesh-mahat](https://github.com/rikesh-mahat)
+- 👨‍💻 All of my projects are available at [https://github.com/rikesh-mahat](https://github.com/rikesh-mahat?tab=repositories)
 
 - 💬 Ask me about **Data Science**
 
